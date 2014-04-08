@@ -10,7 +10,7 @@
         type: 'git',
         url: 'git@github.com:kof/remove-hover.git'
     },
-    keywords: ['hover', ':hover', 'touch', 'mobile', 'remove'],
+    keywords: ['hover', ':hover', 'touch', 'mobile', 'remove', 'css'],
     engines: {},
     devDependencies: {},
     scripts: {},

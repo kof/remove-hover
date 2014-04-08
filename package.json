@@ -15,7 +15,8 @@
     ":hover",
     "touch",
     "mobile",
-    "remove"
+    "remove",
+    "css"
   ],
   "engines": {},
   "devDependencies": {
