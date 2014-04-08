@@ -10,7 +10,13 @@
     "type": "git",
     "url": "git@github.com:kof/remove-hover.git"
   },
-  "keywords": [],
+  "keywords": [
+    "hover",
+    ":hover",
+    "touch",
+    "mobile",
+    "remove"
+  ],
   "engines": {},
   "devDependencies": {
     "browserify": "3.24.13",

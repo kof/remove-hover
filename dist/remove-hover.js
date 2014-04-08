@@ -5,7 +5,6 @@
  * It will remove :hover selectors from the rules or the rules completely when
  * all selectors contain :hover.
  *
- * @note better to use preprocessor.
  * @author Oleg Slobodskoi 2014
  */
 
