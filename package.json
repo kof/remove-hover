@@ -1,0 +1,26 @@
+{
+  "name": "remove-hover",
+  "description": "Remove :hover css rules for touch based devices.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Oleg Slobodskoi",
+    "email": "oleg008@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kof/remove-hover.git"
+  },
+  "keywords": [],
+  "engines": {},
+  "devDependencies": {
+    "browserify": "3.24.13",
+    "uglify-js": "2.4.x"
+  },
+  "scripts": {},
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}
